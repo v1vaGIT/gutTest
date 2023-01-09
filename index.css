@@ -28,7 +28,7 @@
 }
 .buttons{
     display: flex;
-    width: 370px;
+    width: 270px;
     margin: 15px;
     justify-content: space-between;
 }
